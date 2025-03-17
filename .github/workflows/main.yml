@@ -23,7 +23,7 @@ jobs:
           
           ### SCANNING: Optional fields
           polaris_application_name: gn-polaris-github-lab-java
-          polaris_project_name: ${{ github.event.repository.name }}
+          polaris_project_name: gn-polaris-ctf
           
           ### PULL REQUEST COMMENTS: Uncomment below to enable
           polaris_prComment_enabled: true 
